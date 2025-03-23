@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86161298-384b-48d4-bda3-37700a32b350" name="Changes" comment="початковий comit" />
+    <list default="true" id="86161298-384b-48d4-bda3-37700a32b350" name="Changes" comment=" 123.txt mmm">
+      <change afterPath="$PROJECT_DIR$/dfg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdgsg.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2uhqmUIRSSDnvPehcDBSPaCDwhT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742711313175</updated>
-      <workItem from="1742711314050" duration="2359000" />
+      <workItem from="1742711314050" duration="3122000" />
     </task>
     <task id="LOCAL-00001" summary="початковий comit">
       <option name="closed" value="true" />
@@ -63,7 +69,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742713495992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="створив 123.txt">
+      <option name="closed" value="true" />
+      <created>1742713786530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742713786530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="змінив 123.txt">
+      <option name="closed" value="true" />
+      <created>1742713945987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742713945987</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" 123.txt pyjde pvsybdfdfdfv">
+      <option name="closed" value="true" />
+      <created>1742714032990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742714032990</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" 123.txt mmm">
+      <option name="closed" value="true" />
+      <created>1742714310446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742714310446</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +109,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="початковий comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="початковий comit" />
+    <MESSAGE value="створив 123.txt" />
+    <MESSAGE value="змінив 123.txt" />
+    <MESSAGE value=" 123.txt pyjde pvsybdfdfdfv" />
+    <MESSAGE value=" 123.txt mmm" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 123.txt mmm" />
   </component>
 </project>
