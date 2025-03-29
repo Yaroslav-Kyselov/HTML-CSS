@@ -15,7 +15,7 @@ h1{
     align-items: center;
     flex-wrap: wrap;
     gap: 40px;
-    padding-bottom: 15px 0;
+    padding: 15px 0;
 }
 .card{
     width: 250px;
