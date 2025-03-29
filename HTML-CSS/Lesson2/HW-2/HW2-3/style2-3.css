@@ -1,0 +1,22 @@
+
+*{padding: 0;margin: 0;}
+body{background:darkgreen;}
+.wrapper{
+    height: 100vh;
+    /*background:darkgreen ;*/
+    display: flex;
+    justify-content: center;
+    align-items:flex-start ;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.month{
+    width: 200px;
+    height: 200px;
+    background: lightgreen;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 20px 10px 10px 10px ;
+
+
+}
