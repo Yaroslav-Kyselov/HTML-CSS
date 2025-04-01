@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+section h2{font-size: 50px;
+    padding: 10px;
+}
+section p{padding:10px 100px;
+    text-align: center;
+}
+#top{
+    background-color: darksalmon;
+}
+#midl{
+    background-color: #5bbfd1;
+}
+#down {
+        background-color: #7ed362;
+}
+section a{
+    color: black;
+}
