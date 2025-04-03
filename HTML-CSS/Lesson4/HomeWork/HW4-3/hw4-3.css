@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 5vh;
+    background: #d9d9d9;
+}
+main{
+    height: 75vh;
+    display: flex;
+    }
+footer{
+    height: 20vh;
+}
+main section{
+    width: 60vw;
+    height: 100%;
+    background: #a4a4a4;
+}
+.top{
+    height: 40vh;
+    width: 40vw;
+    background: #7f7a7a;
+}
+.bottom{
+    height: 35vh;
+    width: 40vw;
+    background: #615050;
+}
+.footer-top{
+    height: 9vh;
+    background: #d9d9d9;
+}
+.footer-bottom{
+    height: 11vh;
+    background: #afa9a9;
+}

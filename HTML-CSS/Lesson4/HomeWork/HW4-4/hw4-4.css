@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 5vh;
+    background: #d9d9d9;
+}
+main{
+    display: flex;
+    height: 85vh;
+}
+footer{
+    height: 10vh;
+    background: #d9d9d9;
+}
+main{
+    height: 85vh;
+    display: flex;
+}
+section{
+    height: 100%;
+    width: 28vw;
+    background: #a4a4a4;
+}
+article{
+    height: 100%;
+    width: 30vw;
+    background: #c1c1c1;
+}
+main div{
+    height: 100%;
+    width: 42vw;
+}
+aside{
+    height: 50%;
+    width: 100%;
+}
+.top{
+    background: #7f7a7a;
+}
+.bottom{
+    background: #6b6161;
+}
