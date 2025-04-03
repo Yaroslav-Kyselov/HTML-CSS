@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header, section, aside, footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{font-size: 32px}
+.color{color: white;}
+
+header{
+    height: 20vh;
+    background: #8d8484;
+}
+
+main {
+    display: flex;
+}
+section{
+    height: 20vh;
+    width: 73vw;
+}
+footer{
+    height: 20vh;
+    background: #bdbdbd;}
+.main-left-top{
+    background: #776969;
+}
+.main-left-midl{
+    background: #643030;
+}
+.main-left-bottom{
+    background: #441818;
+}
+aside{
+    height: 30vh;
+    width: 27vw;
+}
+.main-right-top{
+    background: #937575;
+}
+.main-right-bottom{
+background: #644c4c;
+}
