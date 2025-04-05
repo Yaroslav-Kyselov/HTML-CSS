@@ -16,10 +16,14 @@
     25%{
         background-color: yellow;
         border-radius: 150px;
-
     }
     50%{
         border: 10px solid red;
+        /*background-color: yellow;*/
+        /*border-radius: 150px;*/
+    }
+    75%{
+        transform:scale(1.5);
     }
     to{
         transform:rotate(-45deg);
