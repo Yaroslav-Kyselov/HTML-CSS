@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+.pink-box{
+    width:300px;
+    height:300px;
+    background-color:pink;
+    margin:200px auto 0 auto;
+    animation: top-pic 4s linear infinite alternate;
+}
+@keyframes top-pic{
+    from{
+       transform:rotate(45deg);
+    }
+    25%{
+        background-color: yellow;
+        border-radius: 150px;
+
+    }
+    50%{
+        border: 10px solid red;
+    }
+    to{
+        transform:rotate(-45deg);
+    }
+}
