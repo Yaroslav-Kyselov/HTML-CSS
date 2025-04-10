@@ -38,18 +38,18 @@ input[type="submit"]{
     border: none;
     margin-top: 20px;
 }
-form span{
+div span{
     margin: 10px 0;
     color: gray;
 }
-form p svg{
+div p svg{
     margin-bottom: -5px;
 }
-form p{
+div p{
     color: #155694;
     margin: 15px 0;
 }
-form a{
+div a{
     color: #155694;
     text-decoration: none;
     margin-bottom: 15px;
