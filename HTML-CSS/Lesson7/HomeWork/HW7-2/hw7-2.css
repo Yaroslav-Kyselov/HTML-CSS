@@ -140,7 +140,7 @@ header h2{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /*flex-direction: column;*/
+    flex-direction: column;
 }
 .icons{
     width: 100%;
@@ -194,4 +194,77 @@ header h2{
     font-weight: 500;
     line-height: 24px; /* 150% */
     letter-spacing: 0.8px;
+}
+.two-position-w-1153 h2{
+    width: 1074px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px; /* 116.667% */
+    margin: 50px 0;
+}
+.two-position-w-1153 p{
+    color:#8E88C1;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.8px;
+}
+.cards{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*gap: 32px;*/
+}
+.card{
+    width: 209px;
+    height: 206px;
+    border-radius: 8px;
+    border: 2px solid #8E88C1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 26px;
+}
+.card p{
+    width: 178px;
+    color:#8E88C1;
+    text-align: center;
+    font-family: Inter, sans-serif ;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 125% */
+    letter-spacing: 0.8px;
+}
+iframe{
+    width: 100%;
+    height: 664px;
+    display: block;
+}
+footer{
+    width: 100%;
+    height: 94px;
+    background: #071341;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+footer p{
+    width: 96px;
+    height: 24.039px;
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 200%; /* 24px */
 }
