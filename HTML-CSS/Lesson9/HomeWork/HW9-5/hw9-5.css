@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    display: grid;
+    height: 100vh;
+    grid-template-columns:60% 40%;
+    grid-template-rows: 5% 40% 35% 9% 11%;
+    grid-template-areas:
+    "nav nav"
+    "main top"
+    "main bottom"
+    "footer footer"
+    "address address";
+}
+nav{grid-area: nav;
+   background: #d9d9d9;
+}
+main{
+    grid-area: main;
+    background: #a4a4a4;
+}
+.top{grid-area: top;
+     background: #7f7a7a;
+}
+.bottom{ grid-area: bottom;
+    background: #615050;
+}
+footer {grid-area: footer;
+    background: #d9d9d9;
+}
+address{ grid-area: address;
+     background: #afa9a9;
+}
