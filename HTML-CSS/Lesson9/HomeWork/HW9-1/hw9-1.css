@@ -3,7 +3,7 @@
 }
 .wrapper{
     display:grid;
-        grid-template-rows: 22vh 56vh 22vh;
+    grid-template-rows: 22vh 56vh 22vh;
 }
 header footer{
 
