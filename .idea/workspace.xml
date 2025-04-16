@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dafdef7-d0e8-46e9-9868-abf93a048b93" name="Changes" comment="початок2 Task3">
+    <list default="true" id="6dafdef7-d0e8-46e9-9868-abf93a048b93" name="Changes" comment="Task3 fin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML-CSS/Homework/HW-1/Task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-CSS/Homework/HW-1/Task3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -81,7 +81,13 @@
       <workItem from="1742842435972" duration="126000" />
       <workItem from="1742842687444" duration="171000" />
       <workItem from="1742843254607" duration="371000" />
-      <workItem from="1742924932864" duration="1715000" />
+      <workItem from="1742924932864" duration="1929000" />
+      <workItem from="1743193235621" duration="98000" />
+      <workItem from="1743702345699" duration="55000" />
+      <workItem from="1744212944167" duration="47000" />
+      <workItem from="1744737408434" duration="88000" />
+      <workItem from="1744818863123" duration="39000" />
+      <workItem from="1744823955871" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="початок Task3">
       <option name="closed" value="true" />
@@ -107,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742843522367</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task3 fin">
+      <option name="closed" value="true" />
+      <created>1742926854839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742926854839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="початок Task3" />
     <MESSAGE value="початок2 Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="початок2 Task3" />
+    <MESSAGE value="Task3 fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task3 fin" />
   </component>
 </project>
